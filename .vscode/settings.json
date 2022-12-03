@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.art": "html",
+		"stdio.h": "c"
+	}
+}
